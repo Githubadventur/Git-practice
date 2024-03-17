@@ -1,0 +1,51 @@
+orderqty,channel,sales,manufacturer,orderid
+13,Store,2519,Wide World Importers,7022
+5,Store,134,Contoso, Ltd,7052
+13,Store,7900,Fabrikam, Inc.,7080
+15,Store,4048,Wide World Importers,7043
+20,Store,6080,Contoso, Ltd,698
+12,Store,372,Contoso, Ltd,7020
+8,Store,754,Proseware, Inc.,7015
+12,Store,3562,Contoso, Ltd,689
+9,Store,3018,Contoso, Ltd,7119
+18,Store,462,Northwind Traders,140
+9,Store,1395,Contoso, Ltd,7018
+4,Store,50,Contoso, Ltd,117
+9,Store,2714,Contoso, Ltd,7077
+9,Store,1769,Wide World Importers,7280
+5,Store,72,Contoso, Ltd,7682
+13,Store,20080,Fabrikam, Inc.,1472
+4,Store,760,Contoso, Ltd,6995
+12,Store,256,Contoso, Ltd,878
+5,Store,107,Contoso, Ltd,7030
+13,Store,4649,Southridge Video,7036
+12,Store,3720,The Phone Company,7443
+18,Store,1067,Contoso, Ltd,7249
+8,Store,690,Contoso, Ltd,543
+5,Store,220,Southridge Video,7644
+12,Store,3631,The Phone Company,729
+13,Store,9925,Adventure Works,7104
+10,Store,599,Contoso, Ltd,6996
+20,Store,1519,Southridge Video,7078
+18,Store,1367,Southridge Video,104
+12,Store,7068,Litware, Inc.,7647
+10,Store,5690,Litware, Inc.,7082
+9,Store,8010,Fabrikam, Inc.,7099
+13,Store,719,Adventure Works,1127
+9,Store,3619,Contoso, Ltd,126
+10,Store,4090,Contoso, Ltd,1627
+12,Store,1896,Proseware, Inc.,7001
+36,Store,17926,Adventure Works,1761
+9,Store,6291,Proseware, Inc.,7019
+5,Store,849,Adventure Works,7106
+9,Store,1244,Contoso, Ltd,7580
+9,Store,687,Contoso, Ltd,1616
+5,Store,849,Adventure Works,7561
+8,Store,5172,Wide World Importers,78
+4,Store,210,Southridge Video,392
+4,Store,67,Contoso, Ltd,946
+12,Store,2628,Contoso, Ltd,153
+13,Store,8807,Adventure Works,581
+26,Store,1048,Northwind Traders,1356
+12,Store,8388,Adventure Works,1042
+9,Store,6081,Adventure Works,1379
